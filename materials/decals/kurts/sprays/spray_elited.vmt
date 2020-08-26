@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"decals\kurts\sprays\spray_elited"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.5"
+
+}
