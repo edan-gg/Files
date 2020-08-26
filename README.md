@@ -1,4 +1,4 @@
-# Files
+# Files (Aka FastDL/Websync) (31 MB)
 These are in-game files that are automatically downloaded for you upon connecting to of our gameservers. These files are downloaded directly into your CS:GO directory. Some files are automatically downloaded network-wide or are associated to particular gamemode(s).
 
 We try our best to minimize the amount of files required to join our network to prevent the annoyance of first-time joiners experiencing a lengthy download time. After your first connection to a server on our network you will NOT have to download these files again unless your CS:GO directory was wiped or you manually deleted them. The origin server that houses these files is located in Seattle and distributed through Cloudflare's CDN.
